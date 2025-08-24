@@ -1,0 +1,10 @@
+pytest
+pytest-cov
+flask
+fastapi
+uvicorn
+transformers
+openai
+pylint
+pytest>=7.0
+
